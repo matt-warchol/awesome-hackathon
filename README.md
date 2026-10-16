@@ -126,6 +126,7 @@ Tools and resources to help you build, design, and win hackathons! 🏆
 - **[Notion](https://www.notion.so/)** - Workspace for organizing notes, ideas, and tasks
 - **[Slack](https://slack.com/)** - Communication tool with channels for team coordination
 - **[Trello](https://trello.com/)** - Kanban-style board for task tracking
+- **[WhoOwnsWhat](https://whoownswhat.xyz/?utm_source=github&utm_medium=referral&utm_campaign=awesome_lists&utm_content=happyhackingspace_hackathon)** - Tracks team expenses and account ownership, with MCP access from AI coding tools
 
 ### Cybersecurity Tools
 - **[Burp Suite Community](https://portswigger.net/burp)** - Free tool for manual vulnerability assessments
